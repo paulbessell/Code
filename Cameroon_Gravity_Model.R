@@ -11,7 +11,7 @@ library(maptools)
 library(stringr)
 library(dplyr)
 library(lattice) # required for trellis.par.set():
-library(cowplot)
+library(cowplot) # For multiple plots
 library(ggrepel)
 library(grid)
 library(qgraph)
